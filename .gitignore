@@ -1,0 +1,6 @@
+venv/
+.env
+.git-credentials
+.gitconfig
+.idea
+__pycache__/
